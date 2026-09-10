@@ -239,3 +239,6 @@ This repository serves as the official landing page for Maple. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Maple today!**
+
+---
+**Last updated:** 2026-09-10 04:20:09 UTC
