@@ -241,4 +241,4 @@ This repository serves as the official landing page for Maple. The software is d
 **Get the most recent version of Maple today!**
 
 ---
-**Last updated:** 2026-10-08 23:13:18 UTC
+**Last updated:** 2026-10-09 05:50:02 UTC
